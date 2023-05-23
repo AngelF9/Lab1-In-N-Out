@@ -1,4 +1,4 @@
-# Lab1--In-N-Out
+# Lab1-In-N-Out
 
 In this lab, you will learn how to:
 - modify a program's return code
